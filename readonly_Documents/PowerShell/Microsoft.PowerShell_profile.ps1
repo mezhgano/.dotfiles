@@ -109,11 +109,11 @@ function ffp ($FileName) {
     ffprobe -hide_banner $FileName
 }
 
-function cm-cd {
+function czm-cd {
     cd $(chezmoi source-path)
 }
 
 ### Aliases
 Set-Alias g git
 Set-Alias aria aria2c
-Set-Alias cm chezmoi
+Set-Alias czm chezmoi
