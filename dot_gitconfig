@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Dmitry Meshkoff
+	email = mejgano@gmail.com
+[core]
+	editor = code --wait
